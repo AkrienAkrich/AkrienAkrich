@@ -25,9 +25,12 @@
 
 ---
 
-## 📊 Статистика
+## 🛠 Стэк
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkrienAkrich&show_icons=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkrienAkrich&layout=compact&theme=transparent" />
+  <img src="https://skillicons.dev/icons?i=python,docker,git,vscode,idea,pycharm,mysql,sqlite" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 </p>
